@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "practica -2",
+		"path": "."
+	},
+	{
+		"name": "images",
+		"path": "..\\..\\..\\..\\Downloads\\Reto-2-master\\Reto-2-master\\assets\\images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "practica -2"
+  }
+}
